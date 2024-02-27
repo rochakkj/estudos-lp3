@@ -1,0 +1,8 @@
+git innit - inicia o repositório
+
+git clone "link do repositório" - clona/faz download do repositório online
+
+git status - verifica o status do repositório local
+
+git add "arquivo" - adiciona o arquivo modificado/ não "tracked" ao commit
+git add . - todos os arquivos do diretório atual
