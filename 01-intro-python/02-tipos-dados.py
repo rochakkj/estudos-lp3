@@ -54,6 +54,15 @@ habili = (1, 2, 3)
 for habil in habili:
     print(habil)
 
+    # set
+    # não indexado
+    # não permite elementos duplicados
+    # digite mensagens
+    # digite os emails de destino
+emails = {"davi@gmail.com", "rocha@gmail.com", "davi@gmail.com"}
+emails.add("davi@gmail.com")
+print(emails)
+
     #dict
     #dicionário
     #chave : valor
